@@ -1,0 +1,21 @@
+{
+  "name": "eslint-plugin-gdds",
+  "version": "1.0.1",
+  "description": "gdds公司自定义的eslint插件",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "author": {
+    "name": "luzhuokun"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luzhuokun/eslint-plugin-gdds.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luzhuokun/eslint-plugin-gdds/issues"
+  },
+  "homepage": "https://github.com/luzhuokun/eslint-plugin-gdds#readme"
+}
